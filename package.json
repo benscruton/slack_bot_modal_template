@@ -1,0 +1,13 @@
+{
+  "name": "slack_modal_template",
+  "version": "1.0.0",
+  "description": "Slack bot template, slash command to modal",
+  "main": "bot.js",
+  "author": "benscruton",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@slack/bolt": "^3.11.3",
+    "dotenv": "^16.0.1"
+  }
+}
